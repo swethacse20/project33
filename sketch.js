@@ -53,7 +53,7 @@ function setup() {
   
   bubble = createSprite(290,460,20,20);
   bubble.addImage(bubble_img);
-  bubble.scale = 0.1;
+  bubble.scale = 0.5;
   
   //bunny sprite
   blink.frameDelay = 20;
